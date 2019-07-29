@@ -1,7 +1,7 @@
 {
-    "token": "",
-    "prefix": "",
-    "owner": [""],
-    "playingStatus": "",
-    "tsChannelsEnabled": 
+    "token": "NjA1MjY5MzQyNDU5Nzg5MzEy.XT6DWQ.AycBE9GGPEXDVlQhnIaMB93hITM",
+    "prefix": ":ts",
+    "owner": ["424257720053399552"],
+    "playingStatus": ":ts help",
+    "tsChannelsEnabled": true
 }
